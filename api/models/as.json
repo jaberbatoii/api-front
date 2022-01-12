@@ -1,0 +1,69 @@
+
+
+    {
+    "_id": 1,
+    "title": "پوشاک",
+    "price": 109.95,
+    "description": "دسته پوشاک",
+    "category": "لباس",
+    "img": "https://www.parsnaz.com/imgs/2018/05/1034601875.jpg",
+    "categories":[
+      {
+        "id":1,
+        "title":"مردانه"
+      },
+       {
+        "id":2,
+        "title":"دخترانه"
+      },
+       {
+        "id":3,
+        "title":"بچگانه"
+      }
+      ]
+    },
+    {
+    "_id": 2,
+    "title": "مواد غذایی",
+    "price": 109.95,
+    "description": "دسته غذایی",
+    "category": "غذا",
+    "img": "https://mestergraph.com/uploads/pictures/labanyattt/sayerrrrr/master_groph_26-3_1.jpg",
+    "categories":[
+      {
+        "id":1,
+        "title":"پروتین"
+      },
+       {
+        "id":2,
+        "title":"لبنیات"
+      },
+       {
+        "id":3,
+        "title":"حبوبات"
+      }
+      ]
+    },
+    {
+    "_id": 3,
+    "title": "الکترونیک",
+    "price": 109.95,
+    "description": "دسته الکترونیک",
+    "category": "الکترونیک",
+    "img": "https://phoo.ir/wp-content/uploads/edd/aksplus/3157-3792x4188-phoo.ir_.jpg",
+    "categories":[
+      {
+        "id":1,
+        "title":"لپ تاپ"
+      },
+       {
+        "id":2,
+        "title":"تبلت"
+      },
+       {
+        "id":3,
+        "title":"موبایل"
+      }
+      ]
+    }
+    
